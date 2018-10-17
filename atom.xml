@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-16T13:50:23.282Z</updated>
+  <updated>2018-10-17T03:51:41.102Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,18 @@
     <link href="http://yoursite.com/2018/10/16/%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2018/10/16/测试/</id>
     <published>2018-10-16T09:59:58.000Z</published>
-    <updated>2018-10-16T13:50:23.282Z</updated>
+    <updated>2018-10-17T03:51:41.102Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="vue" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/vue/"/>
     
     
-      <category term="-testing" scheme="http://yoursite.com/tags/testing/"/>
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
